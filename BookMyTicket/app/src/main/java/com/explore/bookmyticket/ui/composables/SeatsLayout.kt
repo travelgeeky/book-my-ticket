@@ -54,7 +54,9 @@ fun SeatsLayout(
 
 
     val context: Context = LocalContext.current.applicationContext
-    LazyColumn(state = listState,
+    LazyColumn(
+        modifier = Modifier.padding(bottom = 16.dp),
+        state = listState,
         horizontalAlignment = Alignment.Start,
         verticalArrangement = Arrangement.SpaceEvenly,
         content = {
