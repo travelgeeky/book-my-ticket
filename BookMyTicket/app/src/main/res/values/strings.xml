@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookMyTicket</string>
+    <string name="auth_error_msg">There\'s some Authentication Problem.</string>
+    <string name="server_error_msg">Sorry for the inconvenience. Please try again sometime later;</string>
+    <string name="unknown_error_msg">Something Went Wrong. Please try again later.</string>
+    <string name="retry_btn_label">Retry</string>
+    <string name="confirm_booking_btn">Next</string>
+    <string name="seat_label_sold">Sold</string>
+    <string name="seat_label_available">Available</string>
+    <string name="seat_label_selected">Selected</string>
+    <string name="tickets_limit_exceeded">Ticket Limit Exceeds. Please Deselect any seat first. </string>
+    <string name="ticket_confirmation_msg">Your tickets has been booked</string>
+</resources>
